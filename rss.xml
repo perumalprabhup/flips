@@ -1,0 +1,25 @@
+<? xml version="1.0" encoding ="ISO-8859-1" ?>
+<rss version ="0.91">
+<channel>
+<title>
+Post Free Classified Ads
+</title>
+<link>file:///E:/a/prabhu11/learn/flips/index.html </link>
+<description> This is the test page through RSS </description>
+<language>en-us</language>
+ <image>
+ <title> Post Free Classified Ads </title>
+ <url>https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=imgres&cd=&cad=rja&uact=8&ved=0ahUKEwiq_7ezqPrXAhXFL48KHZg8CgYQjRwIBw&url=https%3A%2F%2Fanimals.desktopnexus.com%2Fwallpaper%2F378006%2F&psig=AOvVaw3ZsoirmBU5bG_sK2nUzswM&ust=1512819054147352 </url>
+ <link>file:///E:/a/prabhu11/learn/flips/index.html</link>
+<width>90</width>
+<height>35</height>
+
+<item>
+
+
+
+</item>
+</image>
+</channel>
+
+</rss>
